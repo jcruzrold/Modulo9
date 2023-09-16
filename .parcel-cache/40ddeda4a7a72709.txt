@@ -1,0 +1,19 @@
+18
+83/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/dist/index.579125c3.js.map1694557624387951746 0
+80/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/dist/index.4d663569.css1694872805216851666 0
+81/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/dist/lab.3464ddca.js.map1694557624423948841 0
+84/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/dist/index.4d663569.css.map1694872805216851666 0
+56/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab1694513014452510090 1
+60/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/src1694510651949594774 1
+67/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/index.html1694872804072867354 0
+83/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/dist/index.975ef6c8.js.map1694872805088853421 0
+69/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/package.json1694785334545517715 0
+71/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/src/styles.css1694812588041359750 0
+69/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/src/index.js1694812595693300165 0
+77/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/src/data-business.js1694812607237210303 0
+69/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/src/utils.js1694812591149335546 0
+79/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/dist/index.579125c3.js1694557624387951746 0
+61/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/dist1694872805216851666 1
+77/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/dist/lab.3464ddca.js1694557624423948841 0
+79/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/dist/index.975ef6c8.js1694872805084853475 0
+72/home/jcr/Formación/Bootcamp js/Módulo9/Ejercicios/lab/dist/index.html1694872805156852488 0
